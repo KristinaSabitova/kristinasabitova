@@ -1,46 +1,39 @@
-# 👋 Hola, soy Kristina Sabitova
+# Kristina Sabitova
 
-🎯 Desarrolladora de Aplicaciones Web en formación | Enfoque en crecimiento continuo
+**DAW · Red Team · Ofensiva web**
 
----
-
-## 🚀 Sobre mí
-
-Siempre me ha llamado la atención el mundo de la tecnología.  
-Me fascinaba cómo una idea podía convertirse en una aplicación real que resolviera problemas.
-
-Mi primer camino profesional fue el sector sanitario. Ahí desarrollé disciplina, responsabilidad y capacidad de trabajo bajo presión. Sin embargo, también entendí que necesitaba un entorno con mayor proyección y posibilidades de crecimiento.
-
-Por la precariedad laboral en sanidad y por vocación personal, decidí dar el salto al mundo tech.
-
-Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)** y me estoy formando de manera constante para convertirme en una desarrolladora sólida, con buenos fundamentos y mentalidad de mejora continua.
-
-No busco aprender rápido — busco aprender bien.
+`Red team` `En formación` `Pentesting web` `OSINT` `CTF player`
 
 ---
 
-## 🛠️ Tecnologías
+## Áreas de enfoque
 
-HTML • CSS • JavaScript • Java • MySQL • Git
+**Pentesting de aplicaciones web** · `foco principal`
+Explotación de vulnerabilidades OWASP Top 10 (SQLi, XSS, IDOR, SSRF...), análisis manual y automatizado, encadenamiento de fallos para escalada de impacto.
 
----
+**Reconocimiento & OSINT** · `foco principal`
+Enumeración de activos, footprinting pasivo y activo, subdomain takeover, recopilación de inteligencia previa al ataque.
 
-## 📂 Proyectos (en desarrollo)
+**Explotación & post-explotación**
+Escalada de privilegios en entornos Linux/Windows, movimiento lateral básico, uso de Metasploit y técnicas manuales.
 
-🚧 Construyendo proyectos reales full stack para portfolio:
-
-- Task Manager Full Stack
-- Sistema de usuarios con autenticación
-- Dashboard con APIs
-
----
-
-## 🎯 Objetivo profesional
-
-Seguir creciendo como desarrolladora web y participar en proyectos reales dentro del sector tecnológico.
+**Scripting ofensivo**
+Automatización de tareas de reconocimiento y explotación en Python y Bash. Desarrollo de herramientas propias para CTF.
 
 ---
 
-## 📫 Contacto
+## Stack técnico
 
-(Próximamente LinkedIn y email profesional)
+Ofensivo: `Burp Suite` `Nmap` `Metasploit` `SQLmap` `Gobuster` `Shodan`
+General: `Python` `Linux / Bash` `Wireshark` `Git` `HTML / CSS / JS` `MySQL`
+
+---
+
+## Formación
+
+- Técnico Superior en DAW
+- CTF activa en Hack The Box & TryHackMe
+- Aprendizaje  continuo
+
+---
+
