@@ -8,10 +8,10 @@
 
 ## Áreas de enfoque
 
-**Pentesting de aplicaciones web** · `foco principal`
+**Pentesting de aplicaciones web** · 
 Explotación de vulnerabilidades OWASP Top 10 (SQLi, XSS, IDOR, SSRF...), análisis manual y automatizado, encadenamiento de fallos para escalada de impacto.
 
-**Reconocimiento & OSINT** · `foco principal`
+**Reconocimiento & OSINT** · 
 Enumeración de activos, footprinting pasivo y activo, subdomain takeover, recopilación de inteligencia previa al ataque.
 
 **Explotación & post-explotación**
@@ -25,6 +25,7 @@ Automatización de tareas de reconocimiento y explotación en Python y Bash. Des
 ## Stack técnico
 
 Ofensivo: `Burp Suite` `Nmap` `Metasploit` `SQLmap` `Gobuster` `Shodan`
+
 General: `Python` `Linux / Bash` `Wireshark` `Git` `HTML / CSS / JS` `MySQL`
 
 ---
