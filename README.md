@@ -68,17 +68,6 @@ A selection of what I've built so far. More coming.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KristinaSabitova&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaSabitova&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
----
-
 ## 📚 Training
 
 - 🎓 Master in Cybersecurity & AI — **Evolve Academy** *(in progress)*
