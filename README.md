@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# Kristina Sabitova
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Diagnostic+Imaging+Tech+→+Offensive+Security;From+3D+surgical+models+to+breaking+systems;OSINT+%7C+Red+Team+%7C+Web+App+Pentesting;Building+tools+that+think+like+attackers)](https://git.io/typing-svg)
 
