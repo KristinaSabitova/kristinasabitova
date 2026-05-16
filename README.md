@@ -1,61 +1,93 @@
-# Hi, I'm Kristina 👋
+<div align="center">
 
-**Cybersecurity student · Red Team · OSINT · Web Application Developer**
+# Kristina Sabitova
 
-I'm specializing in offensive security and OSINT — building tools, breaking things (with permission), and automating the parts that should never be manual.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Diagnostic+Imaging+Tech+→+Cybersecurity;Red+Team+%7C+OSINT+%7C+Offensive+Security;Building+tools+that+think+like+attackers)](https://git.io/typing-svg)
 
-Currently training at **Evolve Academy** — Master in Cybersecurity & AI.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina-solomatova-sabitova-8207a4163)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kristinasabitova)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kristinasabitova)
+
+</div>
 
 ---
 
-## 🛡️ Featured Projects
+## About me
 
-### [DOMINUS](https://github.com/KristinaSabitova/dominus) — Domain Intelligence & Risk Scoring
-Passive OSINT reconnaissance tool for domains. Six analysis phases — WHOIS, DNS, subdomains, ports, HTTP headers, and credential leak detection — producing a Risk Score from 0 to 100 and a fully standalone HTML report.
+I started my career as a **Diagnostic Imaging and Nuclear Medicine Technician** — working in oncology and complex pathology, creating 3D models for surgical planning. That background gave me something most cybersecurity people don't have: a deep understanding of how critical systems work when lives depend on them, and what it really means when those systems fail.
 
-> `python` `nmap` `dnspython` `osint` `infosec`
+That's what brought me to security. I'm now specializing in **offensive security and OSINT**, currently training at Evolve Academy's Master in Cybersecurity & AI, while also holding a Higher Technician degree in Web Application Development.
 
-### [SENTINEL](https://github.com/KristinaSabitova/sentinel) — IP Threat Intelligence
-IP reputation and threat intelligence analyzer. Detects Tor exit nodes in real time, queries AbuseIPDB and AlienVault OTX, identifies cloud provider ownership, and generates an interactive HTML report with a geolocalization map.
-
-> `python` `nmap` `abuseipdb` `threat-intelligence` `tor-detection`
-
-Both tools are part of the **DOMINI Suite** — a passive OSINT framework designed to map the full attack surface of any target using only free, open source tools.
-
-📝 [Read the full writeup on dev.to](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
+I build tools, break things (with permission), and automate the parts that should never be manual.
 
 ---
 
 ## 🔧 Focus Areas
 
-**Web Application Pentesting** — OWASP Top 10 exploitation (SQLi, XSS, IDOR, SSRF), manual and automated analysis, vulnerability chaining for impact escalation.
-
-**Reconnaissance & OSINT** — Asset enumeration, passive and active footprinting, subdomain takeover, pre-attack intelligence gathering.
-
-**Exploitation & Post-exploitation** — Privilege escalation on Linux/Windows, lateral movement, Metasploit and manual techniques.
-
-**Offensive Scripting** — Automation of reconnaissance and exploitation tasks in Python and Bash. Custom tool development for CTF and real engagements.
+```
+🔴  Web Application Pentesting    OWASP Top 10 · SQLi · XSS · IDOR · SSRF · Burp Suite
+🟠  Reconnaissance & OSINT        Footprinting · Subdomain enum · Threat Intelligence
+🟡  Exploitation                  Metasploit · Privilege Escalation · Post-exploitation
+🟢  Offensive Scripting           Python · Bash · Custom tool development · CTF
+```
 
 ---
 
 ## 🧰 Tech Stack
 
-**Offensive:** `Burp Suite` `Nmap` `Metasploit` `SQLmap` `Gobuster` `Shodan`
+**Offensive**
 
-**General:** `Python` `Linux / Bash` `Wireshark` `Git` `HTML / CSS / JS` `MySQL`
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📚 Training & Certifications
+## 🗂️ Projects
 
-- Master in Cybersecurity & AI — Evolve Academy *(in progress)*
-- Higher Technician in Web Application Development (DAW)
-- Active CTF player — Hack The Box & TryHackMe
+A selection of what I've built so far. More coming.
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [DOMINUS](https://github.com/KristinaSabitova/dominus) | Passive OSINT domain reconnaissance · Risk Score 0–100 · Standalone HTML report | Python · nmap · dnspython |
+| [SENTINEL](https://github.com/KristinaSabitova/sentinel) | IP threat intelligence · Real-time Tor detection · AbuseIPDB · OTX · Geo map | Python · nmap · Leaflet.js |
+| [Pentesting Lab](https://github.com/KristinaSabitova/pentesting-lab-kali-metasploitable) | Kali Linux + Metasploitable on Apple Silicon (UTM) | Kali · Metasploit · UTM |
+| [Kali on M1](https://github.com/KristinaSabitova/Kali-Linux-on-Apple-Silicon-M1-using-UTM) | Stable Kali environment for Apple Silicon, minimizing virtualization friction | Kali · UTM |
+
+📝 [DOMINI Suite writeup on dev.to](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
 
 ---
 
-## 📬 Get in touch
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina-solomatova-sabitova-8207a4163)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/kristinasabitova)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KristinaSabitova)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KristinaSabitova&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaSabitova&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 📚 Training
+
+- 🎓 Master in Cybersecurity & AI — **Evolve Academy** *(in progress)*
+- 🎓 Higher Technician in Web Application Development (DAW)
+- 🏥 Diagnostic Imaging & Nuclear Medicine Technician *(former)*
+- ⚔️ Active CTF player — **Hack The Box** & **TryHackMe**
+
+---
+
+<div align="center">
+<sub>Always learning. Always building.</sub>
+</div>
