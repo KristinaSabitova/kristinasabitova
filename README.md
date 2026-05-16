@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=200&section=header&text=Kristina%20Sabitova&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20·%20Red%20Team%20·%20OSINT&descAlignY=58&descSize=16&descColor=00D4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00D4FF&height=200&section=header&text=KRISTINA%20SABITOVA&fontSize=40&fontColor=00D4FF&fontAlignY=40&desc=Cybersecurity%20·%20Red%20Team%20·%20OSINT&descAlignY=60&descSize=16&descColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Diagnostic+Imaging+Tech+→+Offensive+Security;From+3D+surgical+models+to+breaking+systems;OSINT+%7C+Red+Team+%7C+Web+App+Pentesting;Building+tools+that+think+like+attackers)](https://git.io/typing-svg)
 
