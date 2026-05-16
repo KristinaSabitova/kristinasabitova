@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=180&section=header&text=Kristina%20Sabitova&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20·%20Red%20Team%20·%20OSINT&descAlignY=62&descSize=15&descColor=00D4FF" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Diagnostic+Imaging+Tech+→+Offensive+Security;From+3D+surgical+models+to+breaking+systems;OSINT+%7C+Red+Team+%7C+Web+App+Pentesting;Building+tools+that+think+like+attackers)](https://git.io/typing-svg)
 
@@ -112,7 +112,7 @@ Python and Bash automation for recon and exploitation workflows. Building tools 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=100&section=footer" width="100%"/>
+
 
 <sub>Always learning. Always building. Always one step ahead.</sub>
 
